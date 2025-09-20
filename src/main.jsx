@@ -16,6 +16,5 @@ createRoot(document.getElementById("root")).render(
         <Route path="/" element={<SplashCursor />} />
       </Routes>
     </BrowserRouter>
-    <App />
   </StrictMode>
 );
